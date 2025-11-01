@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+.content-wrapper {
+    background-color: #fffbf0;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+
+.spell-name {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.spell-level {
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+.spell-stats {
+    background-color: #f3e7be;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.stat-label {
+    color: #0645ad;
+    font-weight: bold;
+    white-space: nowrap;
+    display: inline-block;
+    width: 100px;
+    margin-right: 10px;
+}
+
+.spell-description {
+    margin-top: 20px;
+}
+
+a {
+    color: #0645ad;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
